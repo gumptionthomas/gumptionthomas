@@ -1,6 +1,8 @@
-### Some Of My Skills
+### 🧙‍♂️ Tech Skills (not complete)
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,svg,bootstrap,flask,django,react,vue,postgres,sqlite,redis,rabbitmq,gcp,git,github,go,c,cpp,nodejs,java,docker,kubernetes,bash,regex,firebase,ai,sklearn,opencv,linux,raspberrypi,nginx,terraform,vscode,wordpress)](https://skillicons.dev)
+
+### 🤓 Tech Biography (not complete)
 
 I am an enthusiastic, lifelong software developer with a couple decades of experience developing varied software projects in several different languages.
 
@@ -14,25 +16,14 @@ I’ve spent the last 15 years as a software consultant and developer, focusing 
 
 I have attempted (unsuccessfully 🙁) to bootstrap three of my own software startups for which I was the sole developer.
 
-- 🔭 I’m currently working on [`zaphodvox`](https://github.com/gumptionthomas/zaphodvox), an open-source python package that provides a command-line interface for encoding a text file into synthetic speech audio using either the [Google Text-to-Speech API](https://cloud.google.com/text-to-speech/docs) or the [ElevenLabs Speech Synthesis API](https://elevenlabs.io/docs).
+🔭 I’m currently working on [`zaphodvox`](https://github.com/gumptionthomas/zaphodvox), an open-source python package that provides a command-line interface for encoding a text file into synthetic speech audio using either the [Google Text-to-Speech API](https://cloud.google.com/text-to-speech/docs) or the [ElevenLabs Speech Synthesis API](https://elevenlabs.io/docs).
 
-- 👯 I’m looking to collaborate on either of my open-source projects: [`zaphodvox`](https://github.com/gumptionthomas/zaphodvox) or [`cancelchain`](https://github.com/cancelchain/cancelchain) (an open-source python project that implements a custom, non-cryptocurrency blockchain ledger).
+👯 I’m looking to collaborate on either of my open-source projects: [`zaphodvox`](https://github.com/gumptionthomas/zaphodvox) or [`cancelchain`](https://github.com/cancelchain/cancelchain) (an open-source python project that implements a custom, non-cryptocurrency blockchain ledger).
 
-- 📫 How to reach me: [`thomasbohmbach@gmail.com`](mailto:thomasbohmbach@gmail.com)
+📫 How to reach me: [`thomasbohmbach@gmail.com`](mailto:thomasbohmbach@gmail.com)
 
-- ⚡ Fun fact: My first paid software project was a biorhythms generator written in BASIC for the Atari 8-bit OS. It was published in [Antic Magazine, January 1988](https://archive.org/details/1988-01-anticmagazine) when I was a high-school student.
+⚡ Fun fact: My first paid software project was a biorhythms generator written in BASIC for the Atari 8-bit OS. It was published in [Antic Magazine, January 1988](https://archive.org/details/1988-01-anticmagazine) when I was a high-school student.
 
-<!--
-**gumptionthomas/gumptionthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📜 Random Tech Quote (complete?)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
