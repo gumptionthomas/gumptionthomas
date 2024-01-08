@@ -16,7 +16,7 @@ I have attempted (unsuccessfully 🙁) to bootstrap three of my own software sta
 
 - 🔭 I’m currently working on [`zaphodvox`](https://github.com/gumptionthomas/zaphodvox), an open-source python package that provides a command-line interface for encoding a text file into synthetic speech audio using either the [Google Text-to-Speech API](https://cloud.google.com/text-to-speech/docs) or the [ElevenLabs Speech Synthesis API](https://elevenlabs.io/docs).
 
-- 👯 I’m looking to collaborate on either of my open-source projects: `zaphodvox` or [`cancelchain`](https://github.com/cancelchain/cancelchain) (an open-source python project that implements a custom, non-cryptocurrency blockchain ledger).
+- 👯 I’m looking to collaborate on either of my open-source projects: [`zaphodvox`](https://github.com/gumptionthomas/zaphodvox) or [`cancelchain`](https://github.com/cancelchain/cancelchain) (an open-source python project that implements a custom, non-cryptocurrency blockchain ledger).
 
 - 📫 How to reach me: [`thomasbohmbach@gmail.com`](mailto:thomasbohmbach@gmail.com)
 
