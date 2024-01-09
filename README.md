@@ -6,6 +6,10 @@
 
 I am an enthusiastic, lifelong software developer with a couple decades of experience developing varied software projects in several different languages.
 
+My first paid software project was a biorhythms generator written in BASIC for the Atari 8-bit OS. It was published in [Antic Magazine, January 1988](https://archive.org/details/1988-01-anticmagazine) when I was a high-school student.
+
+Since then:
+
 I have developed cross-platform digital imaging capture and manipulation applications for Mac/Windows in C++ while managing a small team of developers.
 
 I architected and developed the first Service Oriented Architecture in Java for a Fortune 5 health insurance company, while building and managing a larger team of service developers.
@@ -16,15 +20,13 @@ I’ve spent the last 15 years as a software consultant and developer, focusing 
 
 I have attempted (unsuccessfully 🙁) to bootstrap three of my own software startups for which I was the sole developer.
 
+I continue to tinker with new development technologies on useful-to-me projects, writing lots of code no one will ever see. And that's okay, because I'm a coder at heart.
+
 ### 📥 Tech Status (exhaustive)
 
 - 🔭 I’m currently working on [`zaphodvox`](https://github.com/gumptionthomas/zaphodvox), an open-source python package that provides a command-line interface for encoding a text file into synthetic speech audio using either the [Google Text-to-Speech API](https://cloud.google.com/text-to-speech/docs) or the [ElevenLabs Speech Synthesis API](https://elevenlabs.io/docs).
 
 - 👯 I’m looking to collaborate on either of my open-source projects: [`zaphodvox`](https://github.com/gumptionthomas/zaphodvox) or [`cancelchain`](https://github.com/cancelchain/cancelchain) (an open-source python project that implements a custom, non-cryptocurrency blockchain ledger).
-
-- 📫 How to reach me: [`thomasbohmbach@gmail.com`](mailto:thomasbohmbach@gmail.com)
-
-- ⚡ Fun fact: My first paid software project was a biorhythms generator written in BASIC for the Atari 8-bit OS. It was published in [Antic Magazine, January 1988](https://archive.org/details/1988-01-anticmagazine) when I was a high-school student.
 
 ### 📜 Random Tech Quote (probably exhausted)
 
